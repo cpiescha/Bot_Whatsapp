@@ -1,0 +1,253 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573187832887@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6A60E8BC6F4AB166766D1EBE2F7601C',
+    participant: undefined
+  },
+  messageTimestamp: 1736389008,
+  pushName: 'Camilo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573187832887'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  keyword: 'key_c31cbac6-8708-446f-b8bb-2a453b4c105b',
+  answer: '🙌 Hola, bienvenido a Mercados Rodeoalto. Pregunta por nuestras ofertas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50f9af096d8244832fcc6a66ffee3734'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb0674df-e2a2-45da-a6d2-d65dc0224d07',
+  keyword: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  answer: 'Escribe *Registrar* para registrate por favor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e9eac6bbfd1194c7855029a687eb7f02'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573122416624@s.whatsapp.net',
+    fromMe: false,
+    id: '6E9F99BE52327B3D3188CB8B9C818C27',
+    participant: undefined
+  },
+  messageTimestamp: 1736389121,
+  pushName: 'María Elena Vargas 😄💙',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573122416624'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573122416624@s.whatsapp.net',
+    fromMe: false,
+    id: '6E9F99BE52327B3D3188CB8B9C818C27',
+    participant: undefined
+  },
+  messageTimestamp: 1736389122,
+  pushName: 'María Elena Vargas 😄💙',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573122416624'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573122416624@s.whatsapp.net',
+    fromMe: false,
+    id: '6E9F99BE52327B3D3188CB8B9C818C27',
+    participant: undefined
+  },
+  messageTimestamp: 1736389123,
+  pushName: 'María Elena Vargas 😄💙',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573122416624'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  keyword: 'key_c31cbac6-8708-446f-b8bb-2a453b4c105b',
+  answer: '🙌 Hola, bienvenido a Mercados Rodeoalto. Pregunta por nuestras ofertas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50f9af096d8244832fcc6a66ffee3734'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  keyword: 'key_c31cbac6-8708-446f-b8bb-2a453b4c105b',
+  answer: '🙌 Hola, bienvenido a Mercados Rodeoalto. Pregunta por nuestras ofertas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50f9af096d8244832fcc6a66ffee3734'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb0674df-e2a2-45da-a6d2-d65dc0224d07',
+  keyword: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  answer: 'Escribe *Registrar* para registrate por favor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e9eac6bbfd1194c7855029a687eb7f02'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb0674df-e2a2-45da-a6d2-d65dc0224d07',
+  keyword: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  answer: 'Escribe *Registrar* para registrate por favor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e9eac6bbfd1194c7855029a687eb7f02'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573122416624@s.whatsapp.net',
+    fromMe: false,
+    id: '39E8BDE61BB68C25CB88C239FA05FFFF',
+    participant: undefined
+  },
+  messageTimestamp: 1736389135,
+  pushName: 'María Elena Vargas 😄💙',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hi',
+  from: '573122416624'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  keyword: 'key_c31cbac6-8708-446f-b8bb-2a453b4c105b',
+  answer: '🙌 Hola, bienvenido a Mercados Rodeoalto. Pregunta por nuestras ofertas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50f9af096d8244832fcc6a66ffee3734'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb0674df-e2a2-45da-a6d2-d65dc0224d07',
+  keyword: 'ans_4a6d46b7-5cb3-4195-b685-be6a2fe038ef',
+  answer: 'Escribe *Registrar* para registrate por favor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e9eac6bbfd1194c7855029a687eb7f02'
+}
